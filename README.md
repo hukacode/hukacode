@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hukacode&show_icons=true&theme=buefy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=dotfiles)](https://github.com/hukacode/dotfiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=hktool)](https://github.com/hukacode/hktool)
 
 <!--
 **hukacode/hukacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
