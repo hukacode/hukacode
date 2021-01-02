@@ -1,7 +1,9 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hukacode&show_icons=true&theme=buefy)
+<p align="center">
+  <img alt="Huka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hukacode&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
+</p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hukacode&repo=jkanban)](https://github.com/hukacode/jkanban)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hukacode&repo=jkanban)](https://github.com/hukacode/titama)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hukacode&repo=dotfiles)](https://github.com/hukacode/dotfiles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hukacode&repo=hktool)](https://github.com/hukacode/hktool)
