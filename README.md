@@ -1,4 +1,7 @@
-### Hi there 👋
+[github]: https://www.github.com/hukacode
+[linkedin]: https://www.linkedin.com/in/hungnlk/
+[gmail]: mailto:mr.kharhums@gmail.com
+
 <p align="center">
   <img alt="Huka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hukacode&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
 </p>
@@ -8,17 +11,14 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hukacode&repo=hktool)](https://github.com/hukacode/hktool)
 
-<!--
-**hukacode/hukacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Huka 👋
 
-Here are some ideas to get you started:
+I'm a Software Developer!
+- 🌱 I’m currently learning `golang`
+- 🥅 2021 Goals: Improve English, Japanese
+- ⚡ Fun fact: I love 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="hukacode | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="hukacode | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="hukacode | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
