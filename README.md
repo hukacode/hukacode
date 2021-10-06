@@ -15,5 +15,5 @@ I'm a Software Developer!
 
 ### Connect with me:
 [<img align="left" alt="hukacode | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="hukacode | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="hukacode | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="hukacode | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
